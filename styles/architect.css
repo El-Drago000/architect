@@ -218,6 +218,12 @@ main {
 .sponsors-img-container img {
     width: 165px;
 }
+/* styles for footer */
+.ft{
+    border-radius: 8px;
+background: #FFF4E7;
+text-align: center;
+}
 
 /* responsive styles  for mobile*/
 @media screen and (max-width:576px) {
